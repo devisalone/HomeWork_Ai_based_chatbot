@@ -8,12 +8,7 @@ app = Flask(__name__)
 
 # 🔑 Multiple API Keys (⚠️ replace with NEW ones, don't expose publicly)
 API_KEYS = [
-     "AIzaSyC-WW_MnF0ih1LqErtcnk5helUl1PVB-YA",
-    "AIzaSyDQZKLTx1RmxKFbNRL2JrlUJMy_rGDjkNs",
-    "AIzaSyDfYYBu0NNF38rn8VrxIoVYQZh3zN2bF5c",
-    "AIzaSyCAzPhkujQDpg3q2wO78upNMW3oahJtZc8",
-    "AIzaSyDhV_9Wb8ogdkL8P77_EdMgJMRTbHNiEvQ",
-    "AIzaSyAPiyJzy65dv0Na7_S2FBT-4XzNrH4cpio"
+    
 ]
 
 current_key_index = 0
