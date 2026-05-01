@@ -1,0 +1,24 @@
+You: hii
+Bot: Hello! How can I help you with your homework today? I'm ready to assist you.
+
+You: 4+4
+Bot: ERROR - All API keys failed
+
+You: exit
+Bot: ERROR - All API keys failed
+
+You: 4*90
+Bot: ERROR - All API keys failed
+
+You: hii
+Bot: ERROR - All API keys failed
+
+You: what is AI?
+Bot: ERROR - All API keys failed
+
+You: 4*4
+Bot: ERROR - All API keys failed
+
+You: dev#
+Bot: ERROR - All API keys failed
+

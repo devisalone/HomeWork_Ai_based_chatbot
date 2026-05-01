@@ -1,0 +1,6 @@
+You: hii
+Bot: Hi there! How can I help you with your studies or homework today? I'm ready to assist with any questions you have. 😊
+
+You: 4+4
+Bot: ERROR - All API keys failed
+
